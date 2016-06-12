@@ -1,4 +1,4 @@
-FROM 3.4.4-alpine
+FROM python:3.4-alpine
 MAINTAINER Tharyrok <dev@tharyrok.eu>
 
 ADD /app /app
